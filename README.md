@@ -1,12 +1,36 @@
+<!-- ANIMAÇÃO DE FUNDO E TÍTULO COM EFEITO GLITCH -->
 <p align="center">
-  <img src="https://joaotomas.elprimesolution.com/assets/front/img/avatar_1619874862913595028.png" width="200px" style="border-radius: 50%;" alt="João Tomás - Avatar"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=João+Tomás;Full+Stack+Developer;Pentester+%26+Redes;Freelancer+dispon%C3%ADvel&background=00000000">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=João+Tomás;Full+Stack+Developer;Pentester+%26+Redes;Freelancer+dispon%C3%ADvel">
+  </picture>
 </p>
 
+<!-- EFEITO DE SNAKE ANIMADO (CONTRIBUIÇÕES) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirstJohnny/FirstJohnny/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FirstJohnny/FirstJohnny/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FirstJohnny/FirstJohnny/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- AVATAR COM EFEITO DE BRILHO E FLUTUAÇÃO -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Angola-1E90FF?style=flat-square&logo=map-pin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-22%20anos-FFA500?style=flat-square&logo=cake&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Disponível%20para%20freelas-2ea44f?style=flat-square&logo=upwork&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Luanda-FF69B4?style=flat-square&logo=location-dot&logoColor=white" />
+  <div align="center" style="animation: float 3s ease-in-out infinite;">
+    <img src="https://joaotomas.elprimesolution.com/assets/front/img/avatar_1619874862913595028.png" width="180px" style="border-radius: 50%; box-shadow: 0 0 20px #2ea44f; border: 3px solid #2ea44f;" alt="João Tomás - Avatar"/>
+  </div>
+</p>
+
+<!-- BADGES COM EFEITO DE PULSO E HOVER -->
+<p align="center">
+  <a href="https://www.google.com/maps/place/Angola"><img src="https://img.shields.io/badge/-Angola-1E90FF?style=for-the-badge&logo=map-pin&logoColor=white&link=https://www.google.com/maps/place/Angola" alt="Angola" style="animation: pulse 1.5s infinite;"></a>
+  <img src="https://img.shields.io/badge/-22%20anos-FFA500?style=for-the-badge&logo=cake&logoColor=white" alt="22 anos">
+  <img src="https://img.shields.io/badge/-Disponível%20para%20freelas-2ea44f?style=for-the-badge&logo=upwork&logoColor=white&labelColor=2ea44f&color=white" alt="Freelance">
+  <img src="https://img.shields.io/badge/-Luanda-FF69B4?style=for-the-badge&logo=location-dot&logoColor=white" alt="Luanda">
+</p>
+
+<!-- CONTADOR DE VISITAS DINÂMICO -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FirstJohnny&label=VISITAS+AO+PERFIL&color=2ea44f&style=for-the-badge" alt="Contador de visitas">
 </p>
 
 ---
@@ -91,8 +115,8 @@ Sou conhecido pela minha **dedicação**, **facilidade de aprendizagem** e pela 
 
 Aqui estão alguns dos meus principais trabalhos. Clique nos cards para visitar os repositórios:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FirstJohnny&repo=elprimeschool&theme=dark)](https://github.com/FirstJohnny/elprimeschool)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FirstJohnny&repo=estagioconnect&theme=dark)](https://github.com/FirstJohnny/estagioconnect)
+[![Readme Card](https://gh-stats.com/api/pin/?username=FirstJohnny&repo=elprimeschool&theme=dark)](https://github.com/FirstJohnny/elprimeschool)
+[![Readme Card](https://gh-stats.com/api/pin/?username=FirstJohnny&repo=estagioconnect&theme=dark)](https://github.com/FirstJohnny/estagioconnect)
 
 ---
 
@@ -102,6 +126,11 @@ Aqui estão alguns dos meus principais trabalhos. Clique nos cards para visitar 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FirstJohnny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirstJohnny&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<!-- TROFÉUS DE PERFIL COM EFEITO DE GRADIENTE -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FirstJohnny&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
+</p>
 
 ---
 
@@ -115,3 +144,20 @@ Aqui estão alguns dos meus principais trabalhos. Clique nos cards para visitar 
 ---
 
 ⭐️ **README dinâmico** – As estatísticas e cards são atualizados automaticamente.
+
+<!-- CSS PARA ANIMAÇÕES (FLOAT E PULSE) -->
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+  @keyframes pulse {
+    0% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.9; transform: scale(1.05); }
+    100% { opacity: 1; transform: scale(1); }
+  }
+  img[alt*="Angola"] {
+    animation: pulse 2s infinite;
+  }
+</style>
