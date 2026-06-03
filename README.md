@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/161987486?v=4" width="200px" style="border-radius: 50%;" alt="João Tomás - Avatar"/>
+  <img src="https://joaotomas.elprimesolution.com/assets/front/img/avatar_1619874862913595028.png" width="200px" style="border-radius: 50%;" alt="João Tomás - Avatar"/>
 </p>
 
 <p align="center">
