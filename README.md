@@ -16,7 +16,7 @@
 <!-- AVATAR COM EFEITO DE BRILHO E FLUTUAÇÃO -->
 <p align="center">
   <div align="center" style="animation: float 3s ease-in-out infinite;">
-    <img src="https://joaotomas.elprimesolution.com/assets/front/img/avatar_1619874862913595028.png" width="180px" style="border-radius: 50%; box-shadow: 0 0 20px #2ea44f; border: 3px solid #2ea44f;" alt="João Tomás - Avatar"/>
+    <img src="https://joaotomas.elprimesolution.com/images/joao.png" width="180px" style="border-radius: 50%; box-shadow: 0 0 20px #2ea44f; border: 3px solid #2ea44f;" alt="João Tomás - Avatar"/>
   </div>
 </p>
 
