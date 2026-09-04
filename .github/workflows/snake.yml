@@ -22,7 +22,7 @@ jobs:
           username: FirstJohnny
           output_path: trophy.svg
           theme: darkhub
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
       - name: Commit trophy.svg
         run: |
           git config user.name "github-actions[bot]"
