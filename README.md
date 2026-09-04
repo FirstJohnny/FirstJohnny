@@ -115,21 +115,23 @@ Sou conhecido pela minha **dedicação**, **facilidade de aprendizagem** e pela 
 
 Aqui estão alguns dos meus principais trabalhos. Clique nos cards para visitar os repositórios:
 
-[![Readme Card](https://gh-stats.com/api/pin/?username=FirstJohnny&repo=elprimeschool&theme=dark)](https://github.com/FirstJohnny/elprimeschool)
-[![Readme Card](https://gh-stats.com/api/pin/?username=FirstJohnny&repo=estagioconnect&theme=dark)](https://github.com/FirstJohnny/estagioconnect)
+<p align="center">
+  <a href="https://github.com/FirstJohnny/elprimeschool"><img src="https://raw.githubusercontent.com/FirstJohnny/FirstJohnny/main/profile/pin-elprimeschool.svg" /></a>
+  <a href="https://github.com/FirstJohnny/estagioconnect"><img src="https://raw.githubusercontent.com/FirstJohnny/FirstJohnny/main/profile/pin-estagioconnect.svg" /></a>
+</p>
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FirstJohnny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirstJohnny&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://raw.githubusercontent.com/FirstJohnny/FirstJohnny/main/profile/stats.svg"/>
+  <img height="180em" src="https://raw.githubusercontent.com/FirstJohnny/FirstJohnny/main/profile/top-langs.svg"/>
 </div>
 
 <!-- TROFÉUS DE PERFIL COM EFEITO DE GRADIENTE -->
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=FirstJohnny&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
+  <img src="https://raw.githubusercontent.com/FirstJohnny/FirstJohnny/main/trophy.svg" alt="Troféus do GitHub" />
 </p>
 
 ---
