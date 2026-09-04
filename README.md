@@ -113,11 +113,13 @@ Sou conhecido pela minha **dedicação**, **facilidade de aprendizagem** e pela 
 
 ## 🚀 Projetos em destaque
 
-Aqui estão alguns dos meus principais trabalhos. Clique nos cards para visitar os repositórios:
-
 <p align="center">
   <a href="https://github.com/FirstJohnny/elprimeschool"><img src="https://raw.githubusercontent.com/FirstJohnny/FirstJohnny/main/profile/pin-elprimeschool.svg" /></a>
   <a href="https://github.com/FirstJohnny/estagioconnect"><img src="https://raw.githubusercontent.com/FirstJohnny/FirstJohnny/main/profile/pin-estagioconnect.svg" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/FirstJohnny/elprimesolution"><img src="https://raw.githubusercontent.com/FirstJohnny/FirstJohnny/main/profile/pin-elprimesolution.svg" /></a>
+  <a href="https://github.com/FirstJohnny/farmaceprime"><img src="https://raw.githubusercontent.com/FirstJohnny/FirstJohnny/main/profile/pin-farmaceprime.svg" /></a>
 </p>
 
 ---
