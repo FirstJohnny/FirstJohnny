@@ -129,7 +129,7 @@ Aqui estão alguns dos meus principais trabalhos. Clique nos cards para visitar 
 
 <!-- TROFÉUS DE PERFIL COM EFEITO DE GRADIENTE -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FirstJohnny&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=FirstJohnny&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
 </p>
 
 ---
